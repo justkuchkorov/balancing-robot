@@ -8,6 +8,7 @@
 		(title "Two-wheeled self-balancing robot")
 		(date "2026-11-15")
 		(rev "1")
+		(company "Abdi - github.com/justkuchkorov")
 		(comment 1 "Stage 0 schematic. Pins: docs/pin-table.md, values: docs/calculations.md")
 	)
 	(lib_symbols
