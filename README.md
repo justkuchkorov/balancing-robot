@@ -22,7 +22,7 @@ sensors, so it can go somewhere on its own when I give it a command.
 | Stage | What | Status |
 |---|---|---|
 | 0 | Block diagram, pin table, calculations, KiCad schematic | done |
-| 0b | Body in Fusion: motor mounts, plate, frame | next |
+| 0b | Body in Fusion: motor mounts, plate, frame | in progress |
 | 1 | A wheel spins (PWM) | waiting for the parts |
 | 2 | A wheel is measured (encoder) | |
 | 3 | Speed control loop (PI) | |
@@ -94,5 +94,7 @@ docs/block-diagram-*.jpg    hand-drawn block diagram: tries 1 to 4 and the final
 docs/pin-table.md           which ESP32 pin does what, and why
 docs/calculations.md        the 7 calculations, my predictions and my mistakes
 docs/schematic.pdf, .png    KiCad schematic (ERC: 0 errors, 0 warnings)
+docs/layout-try-*           hand-drawn body layout: tries 1 to 3
 hardware/balancing-robot/   KiCad 10 project and my symbol library
+hardware/fusion/            Fusion design: motor model, wheels, body block (work in progress)
 ```
