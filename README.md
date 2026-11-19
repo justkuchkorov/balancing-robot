@@ -96,5 +96,5 @@ docs/calculations.md        the 7 calculations, my predictions and my mistakes
 docs/schematic.pdf, .png    KiCad schematic (ERC: 0 errors, 0 warnings)
 docs/layout-try-*           hand-drawn body layout: tries 1 to 3
 hardware/balancing-robot/   KiCad 10 project and my symbol library
-hardware/fusion/            Fusion design: motor model, wheels, body block (work in progress)
+hardware/fusion/            Fusion design: motor model, wheels, body frame (work in progress)
 ```
